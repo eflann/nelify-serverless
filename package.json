@@ -18,5 +18,8 @@
   "homepage": "https://github.com/eflann/nelify-serverless#readme",
   "devDependencies": {
     "node-fetch": "^2.6.7"
+  },
+  "dependencies": {
+    "@splitsoftware/splitio": "^10.22.1"
   }
 }
